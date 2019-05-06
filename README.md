@@ -32,7 +32,7 @@ notice of request of 5 min and 10 min.
 * Collaboration: Github
 
 ### pip Installations  
-  NetworkX Command: python -m pip3 install networkx==1.10<br/>
+  NetworkX Command: python -m pip3 install networkx<br/>
   Reverse Geocoder: python -m pip3 install reverse-geocode
 
 ### Third Party Libraries Used
