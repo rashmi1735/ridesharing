@@ -16,9 +16,9 @@ consideration the language and profession of the riders of two trips being merge
 ## Objectives
 
 The main objectives of this project are as follows:
-..* To devise a ride-sharing algorithm to merge individual trips given various constraints like
+* To devise a ride-sharing algorithm to merge individual trips given various constraints like
 pickup time, passenger destination, maximum delay tolerated etc.
-..* Determine the distance saved as a result of ride-sharing.
+* Determine the distance saved as a result of ride-sharing.
 ..* To determine the number of trips saved as a result of ride-sharing.
 ..* To analyze the variations in savings with respect to different pool sizes, i.e. advance
 notice of request of 5 min and 10 min.
