@@ -1,4 +1,4 @@
-# Taxi Riesharing : CS 581 Database Management System (Spring 2019)
+# Taxi Ridesharing : CS 581 Database Management System (Spring 2019)
 
 ## Introduction
 
