@@ -16,20 +16,20 @@ consideration the language and profession of the riders of two trips being merge
 ## Objectives
 
 The main objectives of this project are as follows:
-● To devise a ride-sharing algorithm to merge individual trips given various constraints like
+..* To devise a ride-sharing algorithm to merge individual trips given various constraints like
 pickup time, passenger destination, maximum delay tolerated etc.
-● Determine the distance saved as a result of ride-sharing.
-● To determine the number of trips saved as a result of ride-sharing.
-● To analyze the variations in savings with respect to different pool sizes, i.e. advance
+..* Determine the distance saved as a result of ride-sharing.
+..* To determine the number of trips saved as a result of ride-sharing.
+..* To analyze the variations in savings with respect to different pool sizes, i.e. advance
 notice of request of 5 min and 10 min.
-● To see how the social score (language and profession) impacts the shareability of rides.
-● Compare the ride-sharing results with and without considering the social scores.
+..* To see how the social score (language and profession) impacts the shareability of rides.
+..* Compare the ride-sharing results with and without considering the social scores.
 
 ## Softwares Used
 
-● Programming Language: Python 3.6 (python.exe should be added to system path)
-● IDE: Jupyter Notebook
-● Collaboration: Github
+..* Programming Language: Python 3.6 (python.exe should be added to system path)
+..* IDE: Jupyter Notebook
+..* Collaboration: Github
 
 ### pip Installations  
   NetworkX Command: python -m pip3 install networkx==1.10
@@ -44,10 +44,11 @@ Graphhopper API is an open source routing library. It is used to compute the act
 between two locations. An API key needs to be generated for making calls to the API. You may register yorselves at graphhopper.com and create an API key under 'API keys'. Insert this API key in the getActualDistance function.
 
 ## Execution Steps
-● Open Command Line and type in jupyter notebook and press Enter
-● Open the data_cleaning.ipynb and run all the cells in it. The data must be in the same directory as this file. You may change the data file name as well at the very beginning of the data_cleaning.ipynb file
-● This will generate a cleaned and preprocessed file with the filename as in the variable 'output_file_name' in the same directory. You may change the output file name by chnaging this variable's value
-● Use this cleaned data in the ridesharing_final.ipynb and run all the cells in it in sequence. The last few cells will give the desired output metrics
+
+..* Open Command Line and type in jupyter notebook and press Enter
+..* Open the data_cleaning.ipynb and run all the cells in it. The data must be in the same directory as this file. You may change the data file name as well at the very beginning of the data_cleaning.ipynb file
+..* This will generate a cleaned and preprocessed file with the filename as in the variable 'output_file_name' in the same directory. You may change the output file name by chnaging this variable's value
+..* Use this cleaned data in the ridesharing_final.ipynb and run all the cells in it in sequence. The last few cells will give the desired output metrics
 
 
 
